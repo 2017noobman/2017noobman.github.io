@@ -9,14 +9,16 @@ tags:
 - 薛永嘉
 ---
 
+> 作词：薛永嘉
+> 作曲：薛永嘉
+> 演唱：胡歌
+
+<!-- more -->
+
 {% raw %}
 <video controls="" autoplay="" name="media" width="300px" height="35px"><source src="https://dl.stream.qqmusic.qq.com/M8000027azpT1l6RWC.mp3?vkey=7C1A693A96463AEC23B8475374AF23DDAB0A1665359CCB5B491A68CF14616A52B2035C5CC8B589CA2D441196F8C65239002C4354D0ABABAB&amp;guid=940339283&amp;uid=0&amp;fromtag=30" type="audio/mpeg"></video>
 {% endraw %}
 
-> 作词：薛永嘉
-> 作曲：薛永嘉
-> 演唱：胡歌
->
 > 一场雨 把我困在这里
 > 你冷漠的表情 会让我伤心
 >

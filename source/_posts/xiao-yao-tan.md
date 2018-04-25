@@ -9,14 +9,16 @@ tags:
 - 陈宇任
 ---
 
+> 作词：陈宇任
+> 作曲：陈宇任
+> 演唱：胡歌
+
+<!-- more -->
+
 {% raw %}
 <video controls="" autoplay="" name="media" width="300px" height="35px"><source src="https://dl.stream.qqmusic.qq.com/M800004fTEi42YeMv2.mp3?vkey=9D5D3B50FF7576A70E273E7773A6EB3A073CC679D8D0D1D0037005F7D363900AFF6D5D5C239FE5A2A6D58A4C3203B3433DA46B11C48F3465&amp;guid=322590590&amp;uid=0&amp;fromtag=30" type="audio/mpeg"></video>
 {% endraw %}
 
-> 作词：陈宇任
-> 作曲：陈宇任
-> 演唱：胡歌
->
 > 岁月难得沉默秋风厌倦漂泊
 > 夕阳赖着不走挂在墙头舍不得我
 > 昔日伊人耳边话已和潮声向东流
