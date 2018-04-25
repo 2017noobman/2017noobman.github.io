@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: NoobMan
 subtitle:
-description:
-keywords:
-author: John Doe
-language:
-timezone:
+description: 一个人的博客
+keywords: 博客
+author: NoobMan
+language: zh-Hans
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:day/:title.html
 permalink_defaults:
 
 # Directory
@@ -82,3 +82,11 @@ deploy:
   type: git
   repo: git@github.com:2017noobman/2017noobman.github.io.git
   branch: master
+
+# Menu
+## Docs: https://github.com/iissnan/hexo-theme-next/blob/master/README.cn.md
+menu:
+    home: /
+    archives: /archives
+    tags: /tags
+    categories: /categories
