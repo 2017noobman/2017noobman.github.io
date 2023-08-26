@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>我的个人博客</title>
+        <link>https://www.noobman.fun/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.89.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>2017noobman@gmail.com (noobman)</managingEditor>
+        
+        
+            <webMaster>2017noobman@gmail.com (noobman)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sat, 26 Aug 2023 11:15:55 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://www.noobman.fun/rss.xml" />
+        
+        
+            <item>
+                <title>Hello World</title>
+                <link>https://www.noobman.fun/posts/hello-world/</link>
+                <guid isPermaLink="true">https://www.noobman.fun/posts/hello-world/</guid>
+                <pubDate>Sat, 26 Aug 2023 09:30:38 &#43;0800</pubDate>
+                
+                    <author>2017noobman@gmail.com (noobman)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;Hello World&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
